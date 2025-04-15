@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ddcfba;
+    text-align: center;
+}
+
+header {
+    background: #7a2113;
+    color: white;
+    padding: 20px;
+}
+
+nav ul {
+    list-style:disc;
+    background-color: #7a2113;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-flex;
+    background-color: #c7bebc;
+    list-style:disc;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration:solid;
+    color: #030101;
+}
+
+.menu-item {
+    background: #eb9748c8;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background: #8a2c1e;
+    color: white;
+    padding: 10px;
+}
+
+h4{
+    text-align: right;
+}
+#location{
+    font-size: 30px;
+}
+
+#enquire{
+    display:grid;
+    text-align: center;
+background-color: #ac1111;
+margin: 10px;
+}
+.query-name{
+    text-size-adjust: 20px;
+    
+}
+
+
